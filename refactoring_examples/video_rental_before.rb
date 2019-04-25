@@ -1,6 +1,5 @@
 # Program of video rental shop (before refactoring)
 
-
 class Movie
   REGULAR = 0
   NEW_RELEASE = 1
